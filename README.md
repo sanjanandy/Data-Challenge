@@ -10,3 +10,5 @@ Approach:
 5. Data Dashboarding - Utilize the charts to visulaize the insights and understand the patterns and trends using Tableau, python
 6. Summarize the analysis
 
+Tableau Dashboard:
+https://public.tableau.com/views/SanjanaNandy_DataChallengeTableau/1?:language=en-US&:display_count=n&:origin=viz_share_link
